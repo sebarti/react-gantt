@@ -5,6 +5,13 @@
   text-align: center;
 }
 
+.axis {
+}
+
+.axis-label {
+  font-size: 10px;
+}
+
 .grid-lines {
   stroke: rgb(200, 200, 200);
 }
